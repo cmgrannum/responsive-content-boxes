@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" href="css/bioBox.css">
+ </head>
+<div class="bio-body">
+<div class="bio-container">
+	<div class="bio-span">
+		<div class="bio-box">
+			<h3>What's for breakfast?</h3> 
+				<p>Chicory shallot kurrat camas, chrysanthemum leaves - fava bean, asparagus - fat hen nopal earthnut pea. Mustard, cardoon winged bean guar pea sprouts, tigernut arugula tinda radish, hamburg parsley. Camas, soybean, brinjal, chaya eggplant garden rocket; mizuna greens?</p>
+		</div>
+	</div>
+
+	<div class="bio-span">
+		<div class="bio-box">
+			<h3>What's for lunch?</h3> 
+				<p>Turnip summer purslane - winter melon, okra mung bean tepary bean; eggplant mooli onion. Runner bean dolichos bean, sea beet water spinach, lizard's tail winter purslane, garlic moth bean leek cabbage chickpea. Bitter melon, pea zucchini pigeon pea cucumber chickpea.</p>
+		</div>
+	</div>
+	
+	<div class="bio-span">
+		<div class="bio-box" style="margin-bottom: 15px">
+			<h3>What's for dinner?</h3> 
+				<p>Tarwi; chard asparagus garden rocket kurrat jerusalem artichoke. Urad bean pignut fat hen collard greens; celery burdock pea. Celery, bitter melon winged bean scallion radish horseradish, lentil. Arugula beetroot. Celtuce daikon chinese cabbage pigeon pea.</p>
+		</div>
+		</div>
+</div>
+</div>    
+</html>
